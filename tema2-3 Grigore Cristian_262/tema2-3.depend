@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1705020768 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\adidasi.cpp
+	"Adidasi.h"
+
+1705023234 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\adidasi.h
+	"Haine.h"
+
+1705023234 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\haine.h
+	<iostream>
+	<string>
+
+1705020768 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\geaca.cpp
+	"Geaca.h"
+
+1705023234 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\geaca.h
+	"Haine.h"
+
+1705002056 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\haine.cpp
+	"Haine.h"
+	"ExceptieHaineNegativa.h"
+	"ExceptieMarimeInvalida.h"
+
+1705023180 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\exceptiehainenegativa.h
+	<stdexcept>
+	<string>
+
+1704998959 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\exceptiemarimeinvalida.h
+	<stdexcept>
+	<string>
+
+1705022417 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\main.cpp
+	"Tricou.h"
+	"Geaca.h"
+	"Pantaloni.h"
+	"Adidasi.h"
+	"ExceptieHaineNegativa.h"
+	"ExceptieMarimeInvalida.h"
+	"ContainerHaine.h"
+	<iostream>
+	<memory>
+	<vector>
+
+1705023234 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\tricou.h
+	"Haine.h"
+	<memory>
+
+1705023234 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\pantaloni.h
+	"Haine.h"
+
+1705023180 c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\containerhaine.h
+	<vector>
+	<memory>
+
+1705020768 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\pantaloni.cpp
+	"Pantaloni.h"
+
+1705020768 source:c:\users\beldiman razvan jaxi\desktop\tema2-3 grigore cristian_262\tricou.cpp
+	"Tricou.h"
+

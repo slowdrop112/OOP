@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1705022417 source:d:\facultate\tema2\main.cpp
+	"Tricou.h"
+	"Geaca.h"
+	"Pantaloni.h"
+	"Adidasi.h"
+	"ExceptieHaineNegativa.h"
+	"ExceptieMarimeInvalida.h"
+	"ContainerHaine.h"
+	<iostream>
+	<memory>
+	<vector>
+
+1705020768 source:d:\facultate\tema2\adidasi.cpp
+	"Adidasi.h"
+
+1705019686 d:\facultate\tema2\adidasi.h
+	"Haine.h"
+
+1705014916 d:\facultate\tema2\haine.h
+	<iostream>
+	<string>
+
+1705020768 source:d:\facultate\tema2\geaca.cpp
+	"Geaca.h"
+
+1705015782 d:\facultate\tema2\geaca.h
+	"Haine.h"
+
+1705002056 source:d:\facultate\tema2\haine.cpp
+	"Haine.h"
+	"ExceptieHaineNegativa.h"
+	"ExceptieMarimeInvalida.h"
+
+1705023180 d:\facultate\tema2\exceptiehainenegativa.h
+	<stdexcept>
+	<string>
+
+1704998959 d:\facultate\tema2\exceptiemarimeinvalida.h
+	<stdexcept>
+	<string>
+
+1705020768 source:d:\facultate\tema2\pantaloni.cpp
+	"Pantaloni.h"
+
+1705015782 d:\facultate\tema2\pantaloni.h
+	"Haine.h"
+
+1705020768 source:d:\facultate\tema2\tricou.cpp
+	"Tricou.h"
+
+1705015782 d:\facultate\tema2\tricou.h
+	"Haine.h"
+	<memory>
+
+1705023180 d:\facultate\tema2\containerhaine.h
+	<vector>
+	<memory>
+
